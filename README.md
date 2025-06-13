@@ -160,7 +160,7 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) pa
 
 ## 👨‍💻 Autor
 
-**Tu Nombre** - [@tu-usuario](https://github.com/tu-usuario)
+**Tu Nombre** - [@ArturDev-App](https://github.com/ArturDev-App)
 
 ## 🔮 Futuras Mejoras
 
